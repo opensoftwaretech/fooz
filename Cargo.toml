@@ -1,0 +1,9 @@
+[package]
+name = "fooz"
+version = "0.1.0"
+edition = "2021"
+description = "fuzzy based string search"
+license = "MIT"
+repository = "https://github.com/opensoftwaretech/fooz"
+
+[dependencies]
